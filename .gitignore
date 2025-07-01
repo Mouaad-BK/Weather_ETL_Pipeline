@@ -27,7 +27,6 @@ Thumbs.db
 *.pid
 
 # Images (optional — ignore dashboard screenshots if local)
-*.png
 *.jpg
 *.jpeg
 
