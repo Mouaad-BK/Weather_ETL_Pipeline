@@ -1,0 +1,10 @@
+OpenWeather API key
+Railway account with a PostgreSQL database
+Docker and Docker Compose
+Apache Airflow (runs inside Docker)
+Windows environment (tested)
+Python 3.8 or higher
+Required Python packages:
+- requests  
+- psycopg2-binary
+- apache-airflow

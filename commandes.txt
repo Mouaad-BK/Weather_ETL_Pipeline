@@ -1,0 +1,8 @@
+--Démarre les services Docker--
+   docker-compose up -d
+
+--Vérifie que tout est bien lancé--
+   docker-compose ps
+
+--Arreter les services Docker--
+   docker-compose down

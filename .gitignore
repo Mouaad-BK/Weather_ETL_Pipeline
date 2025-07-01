@@ -1,0 +1,36 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Airflow logs
+airflow/logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Docker
+*.pid
+
+# Images (optional — ignore dashboard screenshots if local)
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+*.tmp
+*.bak
